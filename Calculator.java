@@ -2,7 +2,7 @@ package sk.itsovy.vasinsky.Family;
 
 public class Calculator {
     private String name;
-    private boolean power;
+    private boolean power;// Hello Jakub
 
     public Calculator(String name) {
         this.name = name;
