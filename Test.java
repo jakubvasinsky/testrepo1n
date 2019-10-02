@@ -1,4 +1,5 @@
 package sk.itsovy.vasinsky.other;
+//Zúčastnite sa na týchto podujatiach spolu s priateľmi
 
 public class Test {
 
